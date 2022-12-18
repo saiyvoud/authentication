@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327195810821",
+    "project_id": "help-me-350112",
+    "storage_bucket": "help-me-350112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327195810821:android:04c7e1a433dc8c157ed06c",
+        "android_client_info": {
+          "package_name": "com.authentications.course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327195810821-j5haifqhhhuaa9fd6fbk43ljii7pgu78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywkBqzrWak8Oy2eJQl6HYAWMR__PnW5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327195810821-j5haifqhhhuaa9fd6fbk43ljii7pgu78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
